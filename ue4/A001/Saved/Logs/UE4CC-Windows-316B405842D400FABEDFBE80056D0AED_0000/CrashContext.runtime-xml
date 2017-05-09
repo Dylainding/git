@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-316B405842D400FABEDFBE80056D0AED_0000</CrashGUID>
+		<ProcessId>4460</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>256</SecondsSinceStart>
+		<GameName>UE4-A001</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.2-3416026+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>&quot;F:\git\ue4\A001\A001.uproject&quot;-EpicPortal</CommandLine>
+		<LanguageLCID>2052</LanguageLCID>
+		<AppDefaultLocale>zh_CN</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3416026</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>admin</UserName>
+		<BaseDir>E:/software/UE_4.15/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>E:/software/UE_4.15/</RootDir>
+		<MachineId>553CF15748A5AA55F188578FAE8A1932</MachineId>
+		<LoginId>553cf15748a5aa55f188578fae8a1932</LoginId>
+		<EpicAccountId>c74d428019ba4b9782bcfa5e86a4fef3</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint>Layout=&quot;LevelEditorViewport&quot; Label=&quot;Viewport 1&quot; Content=SViewportsOverlay</UserActivityHint>
+		<ErrorMessage>Ensure condition failed: false [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 650] &nl;Illegal call to DoesPackageExist: &apos;F:/git/ue4/A001/A001.uproject&apos; is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>2</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 5500</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>12606173184</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>12</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>6412877824</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140735543668736</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>937328640</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>943751168</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>1205596160</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>1253318656</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636299028319700000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
